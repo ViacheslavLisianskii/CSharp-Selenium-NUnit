@@ -1,0 +1,16 @@
+C:\Users\fier\Documents\Visual Studio 2015\Projects\CSharpSelenium\AutoTests\bin\Debug\AutoTests.dll
+C:\Users\fier\Documents\Visual Studio 2015\Projects\CSharpSelenium\AutoTests\bin\Debug\AutoTests.pdb
+C:\Users\fier\Documents\Visual Studio 2015\Projects\CSharpSelenium\AutoTests\bin\Debug\nunit.framework.dll
+C:\Users\fier\Documents\Visual Studio 2015\Projects\CSharpSelenium\AutoTests\bin\Debug\TestFramework.dll
+C:\Users\fier\Documents\Visual Studio 2015\Projects\CSharpSelenium\AutoTests\bin\Debug\WebDriver.Support.dll
+C:\Users\fier\Documents\Visual Studio 2015\Projects\CSharpSelenium\AutoTests\bin\Debug\WebDriver.dll
+C:\Users\fier\Documents\Visual Studio 2015\Projects\CSharpSelenium\AutoTests\bin\Debug\TestFramework.pdb
+C:\Users\fier\Documents\Visual Studio 2015\Projects\CSharpSelenium\AutoTests\bin\Debug\nunit.framework.xml
+C:\Users\fier\Documents\Visual Studio 2015\Projects\CSharpSelenium\AutoTests\bin\Debug\WebDriver.Support.xml
+C:\Users\fier\Documents\Visual Studio 2015\Projects\CSharpSelenium\AutoTests\bin\Debug\WebDriver.xml
+C:\Users\fier\Documents\Visual Studio 2015\Projects\CSharpSelenium\AutoTests\obj\Debug\AutoTests.csprojResolveAssemblyReference.cache
+C:\Users\fier\Documents\Visual Studio 2015\Projects\CSharpSelenium\AutoTests\obj\Debug\AutoTests.dll
+C:\Users\fier\Documents\Visual Studio 2015\Projects\CSharpSelenium\AutoTests\obj\Debug\AutoTests.pdb
+C:\Users\fier\Documents\Visual Studio 2015\Projects\CSharpSelenium\AutoTests\bin\Debug\AutoTests.dll.config
+C:\Users\fier\Documents\Visual Studio 2015\Projects\CSharpSelenium\AutoTests\bin\Debug\NLog.dll
+C:\Users\fier\Documents\Visual Studio 2015\Projects\CSharpSelenium\AutoTests\bin\Debug\NLog.xml
